@@ -1,0 +1,33 @@
+body{
+    background-image: url(img/r32.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-clip: content-box; 
+    color:red
+}
+
+.nombre1{
+    color: blue;
+    text-align: center;
+    text-decoration:underline;
+}
+
+.tecno1{
+    text-align: center;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.body__div{
+    margin: 30px;
+}
+
+.div2{
+    background-color: #CECECE30;
+    border-radius: 20px;
+}
